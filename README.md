@@ -4,7 +4,7 @@
   git commit -m "🙉"
 ```
 
-developer · plugin builder · he/him
+developer · plugin builder
 
 ---
 
