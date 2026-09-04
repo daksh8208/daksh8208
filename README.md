@@ -1,16 +1,24 @@
-## Hi there 👋
+# hey, i'm Daksh 👾
 
-<!--
-**daksh8208/daksh8208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+  build it · break it · fix it · ship it
+```
 
-Here are some ideas to get you started:
+developer · plugin builder · he/him  
+currently: making editors do things they weren't supposed to
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,vscode,git" />
+</p>
+
+---
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=daksh8208&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+---
+
+[![GitHub](https://img.shields.io/badge/github-daksh8208-181717?style=flat&logo=github)](https://github.com/daksh8208)
