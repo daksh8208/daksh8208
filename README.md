@@ -4,12 +4,7 @@
   build it · break it · fix it · ship it
 ```
 
-developer · plugin builder · he/him  
-currently: making editors do things they weren't supposed to
-
----
-
-![Daksh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daksh8208&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+developer · plugin builder · he/him
 
 ---
 
