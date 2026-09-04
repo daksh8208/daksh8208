@@ -9,15 +9,7 @@ currently: making editors do things they weren't supposed to
 
 ---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,vscode,git" />
-</p>
-
----
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=daksh8208&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
+![Daksh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daksh8208&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ---
 
