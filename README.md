@@ -1,7 +1,7 @@
 # hey, i'm Daksh 👾
 
 ```
-  build it · break it · fix it · ship it
+  git commit -m "🙉"
 ```
 
 developer · plugin builder · he/him
